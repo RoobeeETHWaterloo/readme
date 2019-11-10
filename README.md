@@ -50,7 +50,7 @@ We learned SKALE, Torus and did a lot of research in Offchain sphere. We also le
 
 | Name | Role | Background | 
 | ---- | ---- | ---------- |
-| Ivanov Pavel | Front-end / solidity developer | Over 7 years of experience in Front-End Development, ex CoFounder of Leading Online journalism startup, 1-st place IcoLab Hackaton, 2-nd place LAToken hackaton, 3-rd place Blockchainhack 2017 |
+| Ivanov Pavel | Front-end / solidity developer | Over 7 years of experience in Front-End Development; Awarded Overall Winner of ETHWaterloo 2017; ex CoFounder of Leading Online journalism startup; 1-st place IcoLab Hackaton; 2-nd place LAToken hackaton; 3-rd place Blockchainhack 2017 |
 | Golovanov Ivan | UI/UX / Analyst | Product Owner at Roobee; Hashlab co-founder; Former Nordea Markets investment analyst, Masters in International Finance|
 | Kaizer Denis | Back-end / solidity developer | Head of R&D at Roobee; Hashlab co-founder; Awarded Overall Winner of ETHWaterloo 2017; Selected as the winner BlockchainHack Russia 2017 by Qtum; Dapp architect, Solidity expert; Author of scientific work "Decentralized Reputation Assessment System in Oracles Networks" |
 | Putilov Dmitry | Full-stack developer | Team lead at Roobee; Over 16 years of experience in Full-stack Development |
